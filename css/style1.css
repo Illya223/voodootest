@@ -1,0 +1,176 @@
+.he{
+    width:1512px;
+    height:193.88px;
+    border-width:0px 0px 1px 0px;
+    border-color: black;
+    padding: 48px 120px 48px 62px;
+    gap:48px
+}
+.h1{
+    width:1330px;
+    height:97.88px;
+}
+.h2{
+    width: 173px;
+    height: 38px;
+    gap:48px;
+}
+.voodoo{
+    width: 192.79px;
+    height: 97.88px;
+    
+}
+
+.h{
+    width:249.79px;
+    height: 97.88px;
+    gap:12px
+}
+.img{
+    width:45px;
+    height: 45px;
+}
+.v{
+     width:20px;
+    height: 20px;
+    top: 15px;
+    left:12px;
+   
+}
+.button{
+    width: 101px;
+    height: 38px;
+    
+    gap: 10px;
+}
+.content1{
+    width: 1272px;
+    height: 3000px;
+    top: 246px;
+    left: 120px;
+    padding: 48px 0px 0px 0px;
+    gap:48px;
+    
+}
+.frame28{
+    width: 1512px;
+    height: 366px;
+    top: 1921px;
+    padding: 100px 0px 0px 0px;
+    gap: 8px;
+    
+    
+}
+.footer{
+    width: 1512px;
+    height: 266px;
+    border-width: 1px 0px 0px 0px;
+    border-color: black;
+    padding: 84px 120px 84px 120px;
+}
+.logo{
+    width: 302px;
+    height: 98px;
+    padding: 8px 110px 8px 110px;
+    gap: 8px;
+}
+.footer-links1{
+    width: 300px;
+    height: 68px;
+    gap: 19px;
+}
+.footer-links{
+    width: 300px;
+    height: 97px;
+    gap: 19px;
+}
+.logomark{
+    width: 82px;
+    height: 82px;
+}
+.vector{
+    width: 82px;
+    height: 82px;
+}
+.group{
+    width:36.44px;
+    height: 36.44px;
+    top: 27.33px;
+    left:21.87px;
+}
+.beta-info{
+    width: 1272px;
+    height: 72px;
+    padding: 24px;
+    gap: 10px;
+}
+.frame5{
+    width: 1224px;
+    height: 24px;
+    gap: 48px;
+}
+.alpha{
+    width: 80px;
+    height: 24px;
+    gap: 6px;
+}
+.info{
+    width: 1024px;
+    height: 13px;
+    gap: 24px;
+}
+.alpha1{
+    width: 50px;
+    height: 20px;
+}
+.product-row{
+    width: 1272px;
+    height: 402px;
+    gap: 24px;
+}
+.product-card{
+    width: 300px;
+    height: 452px;
+    gap: 12px;
+}
+.product-photo{
+    width: 300px;
+    height: 300px;
+    padding: 12px;
+    gap: 10px;
+    border-radius: 4px;
+}
+.product-info{
+    width: 300px;
+    height: 80px;
+}
+.product-button{
+    width: 300px;
+    height: 42px;
+    padding: 10px;
+    gap: 10px;
+}
+.products{
+    width: 1272px;
+    height: 2800px;
+    gap: 48px;
+}
+.core-info{
+    width: 120px;
+    height: 36px;
+}
+.condition{
+    width: 89px;
+    height: 36px;
+}
+.pagination{
+    width: 333px;
+    height: 39px;
+    top:1786px;
+    left: 590px;
+    gap: 10px;
+    
+}
+.title{
+    font-size: 12px;
+}
